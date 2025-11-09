@@ -142,7 +142,7 @@ function Home() {
               Explore courses
             </Link>
             <Link
-              to={"https://www.youtube.com/learncodingofficial"}
+              // to={"https://www.youtube.com/learncodingofficial"}
               className="bg-white text-black  p-2 md:py-3 md:px-6 rounded font-semibold hover:bg-green-500 duration-300 hover:text-white"
             >
               Courses videos
@@ -209,7 +209,7 @@ function Home() {
 
             <div className="items-center mt-6 md:mt-0 flex flex-col">
               <h3 className="text-lg font-semibold mb-4">
-                copyrights &#169; 2024
+                copyrights &#169; 2025
               </h3>
               <ul className=" space-y-2 text-center text-gray-400">
                 <li className="hover:text-white cursor-pointer duration-300">
